@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button {
+    display: block;
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 10px;
+    word-break: break-all;
+}
